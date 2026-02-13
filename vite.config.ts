@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/share-sell-connect/",   // 👈 uyu murongo wongeyeho
+  base: "/share-sell-connect/",   
   plugins: [react()],
 })
   server: {
